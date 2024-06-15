@@ -36,3 +36,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Aditya6688/DSA-Ques/tree/master/0238-product-of-array-except-self) |
+# Math
+|  |
+| ------- |
+| [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Aditya6688/DSA-Ques/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
+# Simulation
+|  |
+| ------- |
+| [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Aditya6688/DSA-Ques/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
