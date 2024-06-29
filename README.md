@@ -49,3 +49,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3444-find-the-number-of-good-pairs-ii](https://github.com/Aditya6688/DSA-Ques/tree/master/3444-find-the-number-of-good-pairs-ii) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [3374-count-alternating-subarrays](https://github.com/Aditya6688/DSA-Ques/tree/master/3374-count-alternating-subarrays) |
+## Math
+|  |
+| ------- |
+| [3374-count-alternating-subarrays](https://github.com/Aditya6688/DSA-Ques/tree/master/3374-count-alternating-subarrays) |
+<!---LeetCode Topics End-->
