@@ -113,12 +113,22 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Aditya6688/DSA-Ques/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Aditya6688/DSA-Ques/tree/master/0207-course-schedule) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Aditya6688/DSA-Ques/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Aditya6688/DSA-Ques/tree/master/0207-course-schedule) |
 ## Union Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Aditya6688/DSA-Ques/tree/master/0200-number-of-islands) |
+## Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Aditya6688/DSA-Ques/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Aditya6688/DSA-Ques/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
