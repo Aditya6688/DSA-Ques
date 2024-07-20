@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aditya6688/DSA-Ques/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0200-number-of-islands](https://github.com/Aditya6688/DSA-Ques/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/Aditya6688/DSA-Ques/tree/master/0399-evaluate-division) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Aditya6688/DSA-Ques/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [3330-modify-the-matrix](https://github.com/Aditya6688/DSA-Ques/tree/master/3330-modify-the-matrix) |
 | [3374-count-alternating-subarrays](https://github.com/Aditya6688/DSA-Ques/tree/master/3374-count-alternating-subarrays) |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0013-roman-to-integer](https://github.com/Aditya6688/DSA-Ques/tree/master/0013-roman-to-integer) |
 | [0392-is-subsequence](https://github.com/Aditya6688/DSA-Ques/tree/master/0392-is-subsequence) |
+| [0399-evaluate-division](https://github.com/Aditya6688/DSA-Ques/tree/master/0399-evaluate-division) |
 | [1764-maximum-repeating-substring](https://github.com/Aditya6688/DSA-Ques/tree/master/1764-maximum-repeating-substring) |
 ## String Matching
 |  |
@@ -114,21 +116,29 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0200-number-of-islands](https://github.com/Aditya6688/DSA-Ques/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Aditya6688/DSA-Ques/tree/master/0207-course-schedule) |
+| [0399-evaluate-division](https://github.com/Aditya6688/DSA-Ques/tree/master/0399-evaluate-division) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Aditya6688/DSA-Ques/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Aditya6688/DSA-Ques/tree/master/0207-course-schedule) |
+| [0399-evaluate-division](https://github.com/Aditya6688/DSA-Ques/tree/master/0399-evaluate-division) |
 ## Union Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Aditya6688/DSA-Ques/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/Aditya6688/DSA-Ques/tree/master/0399-evaluate-division) |
 ## Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Aditya6688/DSA-Ques/tree/master/0207-course-schedule) |
+| [0399-evaluate-division](https://github.com/Aditya6688/DSA-Ques/tree/master/0399-evaluate-division) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Aditya6688/DSA-Ques/tree/master/0207-course-schedule) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/Aditya6688/DSA-Ques/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
