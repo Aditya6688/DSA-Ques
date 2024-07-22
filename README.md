@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1014-k-closest-points-to-origin](https://github.com/Aditya6688/DSA-Ques/tree/master/1014-k-closest-points-to-origin) |
 | [1397-search-suggestions-system](https://github.com/Aditya6688/DSA-Ques/tree/master/1397-search-suggestions-system) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Aditya6688/DSA-Ques/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [2165-plates-between-candles](https://github.com/Aditya6688/DSA-Ques/tree/master/2165-plates-between-candles) |
 | [3330-modify-the-matrix](https://github.com/Aditya6688/DSA-Ques/tree/master/3330-modify-the-matrix) |
 | [3374-count-alternating-subarrays](https://github.com/Aditya6688/DSA-Ques/tree/master/3374-count-alternating-subarrays) |
 ## Math
@@ -111,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1397-search-suggestions-system](https://github.com/Aditya6688/DSA-Ques/tree/master/1397-search-suggestions-system) |
 | [1764-maximum-repeating-substring](https://github.com/Aditya6688/DSA-Ques/tree/master/1764-maximum-repeating-substring) |
 | [1994-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/Aditya6688/DSA-Ques/tree/master/1994-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
+| [2165-plates-between-candles](https://github.com/Aditya6688/DSA-Ques/tree/master/2165-plates-between-candles) |
 ## String Matching
 |  |
 | ------- |
@@ -187,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1397-search-suggestions-system](https://github.com/Aditya6688/DSA-Ques/tree/master/1397-search-suggestions-system) |
+| [2165-plates-between-candles](https://github.com/Aditya6688/DSA-Ques/tree/master/2165-plates-between-candles) |
 ## Trie
 |  |
 | ------- |
@@ -203,4 +206,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/Aditya6688/DSA-Ques/tree/master/1014-k-closest-points-to-origin) |
+## Prefix Sum
+|  |
+| ------- |
+| [2165-plates-between-candles](https://github.com/Aditya6688/DSA-Ques/tree/master/2165-plates-between-candles) |
 <!---LeetCode Topics End-->
