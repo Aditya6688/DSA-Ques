@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1397-search-suggestions-system](https://github.com/Aditya6688/DSA-Ques/tree/master/1397-search-suggestions-system) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Aditya6688/DSA-Ques/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2165-plates-between-candles](https://github.com/Aditya6688/DSA-Ques/tree/master/2165-plates-between-candles) |
+| [2205-find-good-days-to-rob-the-bank](https://github.com/Aditya6688/DSA-Ques/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2227-sum-of-subarray-ranges](https://github.com/Aditya6688/DSA-Ques/tree/master/2227-sum-of-subarray-ranges) |
 | [3330-modify-the-matrix](https://github.com/Aditya6688/DSA-Ques/tree/master/3330-modify-the-matrix) |
 | [3374-count-alternating-subarrays](https://github.com/Aditya6688/DSA-Ques/tree/master/3374-count-alternating-subarrays) |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/Aditya6688/DSA-Ques/tree/master/0392-is-subsequence) |
 | [1086-divisor-game](https://github.com/Aditya6688/DSA-Ques/tree/master/1086-divisor-game) |
 | [1764-maximum-repeating-substring](https://github.com/Aditya6688/DSA-Ques/tree/master/1764-maximum-repeating-substring) |
+| [2205-find-good-days-to-rob-the-bank](https://github.com/Aditya6688/DSA-Ques/tree/master/2205-find-good-days-to-rob-the-bank) |
 ## Brainteaser
 |  |
 | ------- |
@@ -211,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2165-plates-between-candles](https://github.com/Aditya6688/DSA-Ques/tree/master/2165-plates-between-candles) |
+| [2205-find-good-days-to-rob-the-bank](https://github.com/Aditya6688/DSA-Ques/tree/master/2205-find-good-days-to-rob-the-bank) |
 ## Stack
 |  |
 | ------- |
