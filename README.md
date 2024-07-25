@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/Aditya6688/DSA-Ques/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Aditya6688/DSA-Ques/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Aditya6688/DSA-Ques/tree/master/0067-add-binary) |
+| [0168-excel-sheet-column-title](https://github.com/Aditya6688/DSA-Ques/tree/master/0168-excel-sheet-column-title) |
 | [1014-k-closest-points-to-origin](https://github.com/Aditya6688/DSA-Ques/tree/master/1014-k-closest-points-to-origin) |
 | [1086-divisor-game](https://github.com/Aditya6688/DSA-Ques/tree/master/1086-divisor-game) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Aditya6688/DSA-Ques/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/Aditya6688/DSA-Ques/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/Aditya6688/DSA-Ques/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Aditya6688/DSA-Ques/tree/master/0125-valid-palindrome) |
+| [0168-excel-sheet-column-title](https://github.com/Aditya6688/DSA-Ques/tree/master/0168-excel-sheet-column-title) |
 | [0392-is-subsequence](https://github.com/Aditya6688/DSA-Ques/tree/master/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/Aditya6688/DSA-Ques/tree/master/0399-evaluate-division) |
 | [0778-reorganize-string](https://github.com/Aditya6688/DSA-Ques/tree/master/0778-reorganize-string) |
