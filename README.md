@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0013-roman-to-integer](https://github.com/Aditya6688/DSA-Ques/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Aditya6688/DSA-Ques/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Aditya6688/DSA-Ques/tree/master/0067-add-binary) |
 | [1014-k-closest-points-to-origin](https://github.com/Aditya6688/DSA-Ques/tree/master/1014-k-closest-points-to-origin) |
 | [1086-divisor-game](https://github.com/Aditya6688/DSA-Ques/tree/master/1086-divisor-game) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Aditya6688/DSA-Ques/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Aditya6688/DSA-Ques/tree/master/0067-add-binary) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Aditya6688/DSA-Ques/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2645-pass-the-pillow](https://github.com/Aditya6688/DSA-Ques/tree/master/2645-pass-the-pillow) |
 ## Dynamic Programming
@@ -113,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Aditya6688/DSA-Ques/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/Aditya6688/DSA-Ques/tree/master/0067-add-binary) |
 | [0392-is-subsequence](https://github.com/Aditya6688/DSA-Ques/tree/master/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/Aditya6688/DSA-Ques/tree/master/0399-evaluate-division) |
 | [0778-reorganize-string](https://github.com/Aditya6688/DSA-Ques/tree/master/0778-reorganize-string) |
@@ -237,4 +240,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0197-rising-temperature](https://github.com/Aditya6688/DSA-Ques/tree/master/0197-rising-temperature) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Aditya6688/DSA-Ques/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Aditya6688/DSA-Ques/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Aditya6688/DSA-Ques/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
