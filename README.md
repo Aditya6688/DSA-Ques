@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2205-find-good-days-to-rob-the-bank](https://github.com/Aditya6688/DSA-Ques/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2227-sum-of-subarray-ranges](https://github.com/Aditya6688/DSA-Ques/tree/master/2227-sum-of-subarray-ranges) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Aditya6688/DSA-Ques/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Aditya6688/DSA-Ques/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3330-modify-the-matrix](https://github.com/Aditya6688/DSA-Ques/tree/master/3330-modify-the-matrix) |
 | [3374-count-alternating-subarrays](https://github.com/Aditya6688/DSA-Ques/tree/master/3374-count-alternating-subarrays) |
 ## Math
@@ -177,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0778-reorganize-string](https://github.com/Aditya6688/DSA-Ques/tree/master/0778-reorganize-string) |
 | [1994-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/Aditya6688/DSA-Ques/tree/master/1994-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Aditya6688/DSA-Ques/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 ## Sorting
 |  |
 | ------- |
@@ -184,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0974-reorder-data-in-log-files](https://github.com/Aditya6688/DSA-Ques/tree/master/0974-reorder-data-in-log-files) |
 | [1014-k-closest-points-to-origin](https://github.com/Aditya6688/DSA-Ques/tree/master/1014-k-closest-points-to-origin) |
 | [1397-search-suggestions-system](https://github.com/Aditya6688/DSA-Ques/tree/master/1397-search-suggestions-system) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Aditya6688/DSA-Ques/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
