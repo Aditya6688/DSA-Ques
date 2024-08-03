@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2727-number-of-senior-citizens](https://github.com/Aditya6688/DSA-Ques/tree/master/2727-number-of-senior-citizens) |
 | [3330-modify-the-matrix](https://github.com/Aditya6688/DSA-Ques/tree/master/3330-modify-the-matrix) |
 | [3374-count-alternating-subarrays](https://github.com/Aditya6688/DSA-Ques/tree/master/3374-count-alternating-subarrays) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/Aditya6688/DSA-Ques/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Math
 |  |
 | ------- |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2324-find-triangular-sum-of-an-array](https://github.com/Aditya6688/DSA-Ques/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2645-pass-the-pillow](https://github.com/Aditya6688/DSA-Ques/tree/master/2645-pass-the-pillow) |
 | [3374-count-alternating-subarrays](https://github.com/Aditya6688/DSA-Ques/tree/master/3374-count-alternating-subarrays) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/Aditya6688/DSA-Ques/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Matrix
 |  |
 | ------- |
