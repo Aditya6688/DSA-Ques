@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0399-evaluate-division](https://github.com/Aditya6688/DSA-Ques/tree/master/0399-evaluate-division) |
 | [0605-can-place-flowers](https://github.com/Aditya6688/DSA-Ques/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Aditya6688/DSA-Ques/tree/master/0643-maximum-average-subarray-i) |
+| [0890-lemonade-change](https://github.com/Aditya6688/DSA-Ques/tree/master/0890-lemonade-change) |
 | [0974-reorder-data-in-log-files](https://github.com/Aditya6688/DSA-Ques/tree/master/0974-reorder-data-in-log-files) |
 | [1014-k-closest-points-to-origin](https://github.com/Aditya6688/DSA-Ques/tree/master/1014-k-closest-points-to-origin) |
 | [1397-search-suggestions-system](https://github.com/Aditya6688/DSA-Ques/tree/master/1397-search-suggestions-system) |
@@ -217,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0605-can-place-flowers](https://github.com/Aditya6688/DSA-Ques/tree/master/0605-can-place-flowers) |
 | [0778-reorganize-string](https://github.com/Aditya6688/DSA-Ques/tree/master/0778-reorganize-string) |
+| [0890-lemonade-change](https://github.com/Aditya6688/DSA-Ques/tree/master/0890-lemonade-change) |
 | [1994-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/Aditya6688/DSA-Ques/tree/master/1994-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Aditya6688/DSA-Ques/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Aditya6688/DSA-Ques/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
