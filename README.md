@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0974-reorder-data-in-log-files](https://github.com/Aditya6688/DSA-Ques/tree/master/0974-reorder-data-in-log-files) |
 | [1014-k-closest-points-to-origin](https://github.com/Aditya6688/DSA-Ques/tree/master/1014-k-closest-points-to-origin) |
 | [1046-max-consecutive-ones-iii](https://github.com/Aditya6688/DSA-Ques/tree/master/1046-max-consecutive-ones-iii) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/Aditya6688/DSA-Ques/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1397-search-suggestions-system](https://github.com/Aditya6688/DSA-Ques/tree/master/1397-search-suggestions-system) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Aditya6688/DSA-Ques/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1511-count-number-of-teams](https://github.com/Aditya6688/DSA-Ques/tree/master/1511-count-number-of-teams) |
@@ -189,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/Aditya6688/DSA-Ques/tree/master/0424-longest-repeating-character-replacement) |
 | [0778-reorganize-string](https://github.com/Aditya6688/DSA-Ques/tree/master/0778-reorganize-string) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Aditya6688/DSA-Ques/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/Aditya6688/DSA-Ques/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Aditya6688/DSA-Ques/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Aditya6688/DSA-Ques/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Aditya6688/DSA-Ques/tree/master/2163-kth-distinct-string-in-an-array) |
