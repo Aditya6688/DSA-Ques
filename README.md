@@ -173,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1397-search-suggestions-system](https://github.com/Aditya6688/DSA-Ques/tree/master/1397-search-suggestions-system) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Aditya6688/DSA-Ques/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1764-maximum-repeating-substring](https://github.com/Aditya6688/DSA-Ques/tree/master/1764-maximum-repeating-substring) |
+| [1777-determine-if-two-strings-are-close](https://github.com/Aditya6688/DSA-Ques/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/Aditya6688/DSA-Ques/tree/master/1894-merge-strings-alternately) |
 | [1994-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/Aditya6688/DSA-Ques/tree/master/1994-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Aditya6688/DSA-Ques/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -194,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1319-unique-number-of-occurrences](https://github.com/Aditya6688/DSA-Ques/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Aditya6688/DSA-Ques/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Aditya6688/DSA-Ques/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1777-determine-if-two-strings-are-close](https://github.com/Aditya6688/DSA-Ques/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Aditya6688/DSA-Ques/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Aditya6688/DSA-Ques/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Aditya6688/DSA-Ques/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -250,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1397-search-suggestions-system](https://github.com/Aditya6688/DSA-Ques/tree/master/1397-search-suggestions-system) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Aditya6688/DSA-Ques/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Aditya6688/DSA-Ques/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1777-determine-if-two-strings-are-close](https://github.com/Aditya6688/DSA-Ques/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Aditya6688/DSA-Ques/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Aditya6688/DSA-Ques/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Aditya6688/DSA-Ques/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -266,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0778-reorganize-string](https://github.com/Aditya6688/DSA-Ques/tree/master/0778-reorganize-string) |
+| [1777-determine-if-two-strings-are-close](https://github.com/Aditya6688/DSA-Ques/tree/master/1777-determine-if-two-strings-are-close) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Aditya6688/DSA-Ques/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aditya6688/DSA-Ques/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Tree
