@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2227-sum-of-subarray-ranges](https://github.com/Aditya6688/DSA-Ques/tree/master/2227-sum-of-subarray-ranges) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Aditya6688/DSA-Ques/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Aditya6688/DSA-Ques/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2428-equal-row-and-column-pairs](https://github.com/Aditya6688/DSA-Ques/tree/master/2428-equal-row-and-column-pairs) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Aditya6688/DSA-Ques/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2727-number-of-senior-citizens](https://github.com/Aditya6688/DSA-Ques/tree/master/2727-number-of-senior-citizens) |
 | [3330-modify-the-matrix](https://github.com/Aditya6688/DSA-Ques/tree/master/3330-modify-the-matrix) |
@@ -113,12 +114,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Aditya6688/DSA-Ques/tree/master/0200-number-of-islands) |
+| [2428-equal-row-and-column-pairs](https://github.com/Aditya6688/DSA-Ques/tree/master/2428-equal-row-and-column-pairs) |
 | [3330-modify-the-matrix](https://github.com/Aditya6688/DSA-Ques/tree/master/3330-modify-the-matrix) |
 ## Simulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Aditya6688/DSA-Ques/tree/master/0067-add-binary) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Aditya6688/DSA-Ques/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2428-equal-row-and-column-pairs](https://github.com/Aditya6688/DSA-Ques/tree/master/2428-equal-row-and-column-pairs) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Aditya6688/DSA-Ques/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2645-pass-the-pillow](https://github.com/Aditya6688/DSA-Ques/tree/master/2645-pass-the-pillow) |
 ## Dynamic Programming
@@ -199,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1777-determine-if-two-strings-are-close](https://github.com/Aditya6688/DSA-Ques/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Aditya6688/DSA-Ques/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Aditya6688/DSA-Ques/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2428-equal-row-and-column-pairs](https://github.com/Aditya6688/DSA-Ques/tree/master/2428-equal-row-and-column-pairs) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Aditya6688/DSA-Ques/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aditya6688/DSA-Ques/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Depth-First Search
