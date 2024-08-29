@@ -123,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2324-find-triangular-sum-of-an-array](https://github.com/Aditya6688/DSA-Ques/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/Aditya6688/DSA-Ques/tree/master/2428-equal-row-and-column-pairs) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Aditya6688/DSA-Ques/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2470-removing-stars-from-a-string](https://github.com/Aditya6688/DSA-Ques/tree/master/2470-removing-stars-from-a-string) |
 | [2645-pass-the-pillow](https://github.com/Aditya6688/DSA-Ques/tree/master/2645-pass-the-pillow) |
 ## Dynamic Programming
 |  |
@@ -182,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1994-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/Aditya6688/DSA-Ques/tree/master/1994-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Aditya6688/DSA-Ques/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2165-plates-between-candles](https://github.com/Aditya6688/DSA-Ques/tree/master/2165-plates-between-candles) |
+| [2470-removing-stars-from-a-string](https://github.com/Aditya6688/DSA-Ques/tree/master/2470-removing-stars-from-a-string) |
 | [2727-number-of-senior-citizens](https://github.com/Aditya6688/DSA-Ques/tree/master/2727-number-of-senior-citizens) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aditya6688/DSA-Ques/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## String Matching
@@ -324,6 +326,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0394-decode-string](https://github.com/Aditya6688/DSA-Ques/tree/master/0394-decode-string) |
 | [2227-sum-of-subarray-ranges](https://github.com/Aditya6688/DSA-Ques/tree/master/2227-sum-of-subarray-ranges) |
+| [2470-removing-stars-from-a-string](https://github.com/Aditya6688/DSA-Ques/tree/master/2470-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
