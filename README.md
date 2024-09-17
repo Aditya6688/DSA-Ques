@@ -177,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0443-string-compression](https://github.com/Aditya6688/DSA-Ques/tree/master/0443-string-compression) |
 | [0649-dota2-senate](https://github.com/Aditya6688/DSA-Ques/tree/master/0649-dota2-senate) |
 | [0778-reorganize-string](https://github.com/Aditya6688/DSA-Ques/tree/master/0778-reorganize-string) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/Aditya6688/DSA-Ques/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0974-reorder-data-in-log-files](https://github.com/Aditya6688/DSA-Ques/tree/master/0974-reorder-data-in-log-files) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Aditya6688/DSA-Ques/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1397-search-suggestions-system](https://github.com/Aditya6688/DSA-Ques/tree/master/1397-search-suggestions-system) |
@@ -202,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/Aditya6688/DSA-Ques/tree/master/0424-longest-repeating-character-replacement) |
 | [0778-reorganize-string](https://github.com/Aditya6688/DSA-Ques/tree/master/0778-reorganize-string) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Aditya6688/DSA-Ques/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/Aditya6688/DSA-Ques/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1319-unique-number-of-occurrences](https://github.com/Aditya6688/DSA-Ques/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Aditya6688/DSA-Ques/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Aditya6688/DSA-Ques/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -283,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0778-reorganize-string](https://github.com/Aditya6688/DSA-Ques/tree/master/0778-reorganize-string) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/Aditya6688/DSA-Ques/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Aditya6688/DSA-Ques/tree/master/1777-determine-if-two-strings-are-close) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Aditya6688/DSA-Ques/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aditya6688/DSA-Ques/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
