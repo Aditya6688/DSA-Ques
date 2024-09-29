@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2428-equal-row-and-column-pairs](https://github.com/Aditya6688/DSA-Ques/tree/master/2428-equal-row-and-column-pairs) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Aditya6688/DSA-Ques/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2727-number-of-senior-citizens](https://github.com/Aditya6688/DSA-Ques/tree/master/2727-number-of-senior-citizens) |
+| [2755-extra-characters-in-a-string](https://github.com/Aditya6688/DSA-Ques/tree/master/2755-extra-characters-in-a-string) |
 | [3330-modify-the-matrix](https://github.com/Aditya6688/DSA-Ques/tree/master/3330-modify-the-matrix) |
 | [3374-count-alternating-subarrays](https://github.com/Aditya6688/DSA-Ques/tree/master/3374-count-alternating-subarrays) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/Aditya6688/DSA-Ques/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
@@ -140,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Aditya6688/DSA-Ques/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1764-maximum-repeating-substring](https://github.com/Aditya6688/DSA-Ques/tree/master/1764-maximum-repeating-substring) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/Aditya6688/DSA-Ques/tree/master/2205-find-good-days-to-rob-the-bank) |
+| [2755-extra-characters-in-a-string](https://github.com/Aditya6688/DSA-Ques/tree/master/2755-extra-characters-in-a-string) |
 ## Brainteaser
 |  |
 | ------- |
@@ -193,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2165-plates-between-candles](https://github.com/Aditya6688/DSA-Ques/tree/master/2165-plates-between-candles) |
 | [2470-removing-stars-from-a-string](https://github.com/Aditya6688/DSA-Ques/tree/master/2470-removing-stars-from-a-string) |
 | [2727-number-of-senior-citizens](https://github.com/Aditya6688/DSA-Ques/tree/master/2727-number-of-senior-citizens) |
+| [2755-extra-characters-in-a-string](https://github.com/Aditya6688/DSA-Ques/tree/master/2755-extra-characters-in-a-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aditya6688/DSA-Ques/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## String Matching
 |  |
@@ -215,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2163-kth-distinct-string-in-an-array](https://github.com/Aditya6688/DSA-Ques/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/Aditya6688/DSA-Ques/tree/master/2428-equal-row-and-column-pairs) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Aditya6688/DSA-Ques/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2755-extra-characters-in-a-string](https://github.com/Aditya6688/DSA-Ques/tree/master/2755-extra-characters-in-a-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aditya6688/DSA-Ques/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Depth-First Search
 |  |
@@ -317,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Aditya6688/DSA-Ques/tree/master/0386-lexicographical-numbers) |
 | [1397-search-suggestions-system](https://github.com/Aditya6688/DSA-Ques/tree/master/1397-search-suggestions-system) |
+| [2755-extra-characters-in-a-string](https://github.com/Aditya6688/DSA-Ques/tree/master/2755-extra-characters-in-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
