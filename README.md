@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Aditya6688/DSA-Ques/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Aditya6688/DSA-Ques/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Aditya6688/DSA-Ques/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1694-make-sum-divisible-by-p](https://github.com/Aditya6688/DSA-Ques/tree/master/1694-make-sum-divisible-by-p) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Aditya6688/DSA-Ques/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/Aditya6688/DSA-Ques/tree/master/1833-find-the-highest-altitude) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Aditya6688/DSA-Ques/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -215,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1319-unique-number-of-occurrences](https://github.com/Aditya6688/DSA-Ques/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Aditya6688/DSA-Ques/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Aditya6688/DSA-Ques/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1694-make-sum-divisible-by-p](https://github.com/Aditya6688/DSA-Ques/tree/master/1694-make-sum-divisible-by-p) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Aditya6688/DSA-Ques/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Aditya6688/DSA-Ques/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Aditya6688/DSA-Ques/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -343,6 +345,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/Aditya6688/DSA-Ques/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Aditya6688/DSA-Ques/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/Aditya6688/DSA-Ques/tree/master/1046-max-consecutive-ones-iii) |
+| [1694-make-sum-divisible-by-p](https://github.com/Aditya6688/DSA-Ques/tree/master/1694-make-sum-divisible-by-p) |
 | [1833-find-the-highest-altitude](https://github.com/Aditya6688/DSA-Ques/tree/master/1833-find-the-highest-altitude) |
 | [2165-plates-between-candles](https://github.com/Aditya6688/DSA-Ques/tree/master/2165-plates-between-candles) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/Aditya6688/DSA-Ques/tree/master/2205-find-good-days-to-rob-the-bank) |
