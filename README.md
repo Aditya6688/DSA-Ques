@@ -164,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0345-reverse-vowels-of-a-string](https://github.com/Aditya6688/DSA-Ques/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Aditya6688/DSA-Ques/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Aditya6688/DSA-Ques/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/Aditya6688/DSA-Ques/tree/master/0567-permutation-in-string) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Aditya6688/DSA-Ques/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Aditya6688/DSA-Ques/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/Aditya6688/DSA-Ques/tree/master/1894-merge-strings-alternately) |
@@ -185,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0399-evaluate-division](https://github.com/Aditya6688/DSA-Ques/tree/master/0399-evaluate-division) |
 | [0424-longest-repeating-character-replacement](https://github.com/Aditya6688/DSA-Ques/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/Aditya6688/DSA-Ques/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/Aditya6688/DSA-Ques/tree/master/0567-permutation-in-string) |
 | [0649-dota2-senate](https://github.com/Aditya6688/DSA-Ques/tree/master/0649-dota2-senate) |
 | [0778-reorganize-string](https://github.com/Aditya6688/DSA-Ques/tree/master/0778-reorganize-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Aditya6688/DSA-Ques/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -212,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/Aditya6688/DSA-Ques/tree/master/0013-roman-to-integer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Aditya6688/DSA-Ques/tree/master/0160-intersection-of-two-linked-lists) |
 | [0424-longest-repeating-character-replacement](https://github.com/Aditya6688/DSA-Ques/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Aditya6688/DSA-Ques/tree/master/0567-permutation-in-string) |
 | [0778-reorganize-string](https://github.com/Aditya6688/DSA-Ques/tree/master/0778-reorganize-string) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Aditya6688/DSA-Ques/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Aditya6688/DSA-Ques/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -401,6 +404,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/Aditya6688/DSA-Ques/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Aditya6688/DSA-Ques/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Aditya6688/DSA-Ques/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/Aditya6688/DSA-Ques/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Aditya6688/DSA-Ques/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
