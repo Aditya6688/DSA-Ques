@@ -254,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0386-lexicographical-numbers](https://github.com/Aditya6688/DSA-Ques/tree/master/0386-lexicographical-numbers) |
 | [0399-evaluate-division](https://github.com/Aditya6688/DSA-Ques/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/Aditya6688/DSA-Ques/tree/master/0437-path-sum-iii) |
+| [0547-number-of-provinces](https://github.com/Aditya6688/DSA-Ques/tree/master/0547-number-of-provinces) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Aditya6688/DSA-Ques/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/Aditya6688/DSA-Ques/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Aditya6688/DSA-Ques/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -267,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/Aditya6688/DSA-Ques/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Aditya6688/DSA-Ques/tree/master/0207-course-schedule) |
 | [0399-evaluate-division](https://github.com/Aditya6688/DSA-Ques/tree/master/0399-evaluate-division) |
+| [0547-number-of-provinces](https://github.com/Aditya6688/DSA-Ques/tree/master/0547-number-of-provinces) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Aditya6688/DSA-Ques/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Aditya6688/DSA-Ques/tree/master/1036-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Aditya6688/DSA-Ques/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -278,11 +280,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0200-number-of-islands](https://github.com/Aditya6688/DSA-Ques/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/Aditya6688/DSA-Ques/tree/master/0399-evaluate-division) |
+| [0547-number-of-provinces](https://github.com/Aditya6688/DSA-Ques/tree/master/0547-number-of-provinces) |
 ## Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Aditya6688/DSA-Ques/tree/master/0207-course-schedule) |
 | [0399-evaluate-division](https://github.com/Aditya6688/DSA-Ques/tree/master/0399-evaluate-division) |
+| [0547-number-of-provinces](https://github.com/Aditya6688/DSA-Ques/tree/master/0547-number-of-provinces) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Aditya6688/DSA-Ques/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Topological Sort
 |  |
