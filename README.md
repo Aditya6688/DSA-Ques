@@ -112,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0168-excel-sheet-column-title](https://github.com/Aditya6688/DSA-Ques/tree/master/0168-excel-sheet-column-title) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Aditya6688/DSA-Ques/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Aditya6688/DSA-Ques/tree/master/0273-integer-to-english-words) |
+| [0670-maximum-swap](https://github.com/Aditya6688/DSA-Ques/tree/master/0670-maximum-swap) |
 | [1014-k-closest-points-to-origin](https://github.com/Aditya6688/DSA-Ques/tree/master/1014-k-closest-points-to-origin) |
 | [1086-divisor-game](https://github.com/Aditya6688/DSA-Ques/tree/master/1086-divisor-game) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Aditya6688/DSA-Ques/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -307,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/Aditya6688/DSA-Ques/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/Aditya6688/DSA-Ques/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/Aditya6688/DSA-Ques/tree/master/0649-dota2-senate) |
+| [0670-maximum-swap](https://github.com/Aditya6688/DSA-Ques/tree/master/0670-maximum-swap) |
 | [0778-reorganize-string](https://github.com/Aditya6688/DSA-Ques/tree/master/0778-reorganize-string) |
 | [0890-lemonade-change](https://github.com/Aditya6688/DSA-Ques/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Aditya6688/DSA-Ques/tree/master/0957-minimum-add-to-make-parentheses-valid) |
