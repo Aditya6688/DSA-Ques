@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Aditya6688/DSA-Ques/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Aditya6688/DSA-Ques/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Aditya6688/DSA-Ques/tree/master/0027-remove-element) |
 | [0040-combination-sum-ii](https://github.com/Aditya6688/DSA-Ques/tree/master/0040-combination-sum-ii) |
 | [0066-plus-one](https://github.com/Aditya6688/DSA-Ques/tree/master/0066-plus-one) |
@@ -170,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Aditya6688/DSA-Ques/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Aditya6688/DSA-Ques/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Aditya6688/DSA-Ques/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Aditya6688/DSA-Ques/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Aditya6688/DSA-Ques/tree/master/0125-valid-palindrome) |
