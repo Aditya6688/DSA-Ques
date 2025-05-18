@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Aditya6688/DSA-Ques/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Aditya6688/DSA-Ques/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Aditya6688/DSA-Ques/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Aditya6688/DSA-Ques/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aditya6688/DSA-Ques/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Aditya6688/DSA-Ques/tree/master/0027-remove-element) |
 | [0040-combination-sum-ii](https://github.com/Aditya6688/DSA-Ques/tree/master/0040-combination-sum-ii) |
@@ -182,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0011-container-with-most-water](https://github.com/Aditya6688/DSA-Ques/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Aditya6688/DSA-Ques/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Aditya6688/DSA-Ques/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aditya6688/DSA-Ques/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Aditya6688/DSA-Ques/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Aditya6688/DSA-Ques/tree/master/0075-sort-colors) |
@@ -350,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Aditya6688/DSA-Ques/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Aditya6688/DSA-Ques/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Aditya6688/DSA-Ques/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Aditya6688/DSA-Ques/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aditya6688/DSA-Ques/tree/master/0215-kth-largest-element-in-an-array) |
