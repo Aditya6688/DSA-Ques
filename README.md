@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aditya6688/DSA-Ques/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Aditya6688/DSA-Ques/tree/master/0027-remove-element) |
 | [0040-combination-sum-ii](https://github.com/Aditya6688/DSA-Ques/tree/master/0040-combination-sum-ii) |
+| [0054-spiral-matrix](https://github.com/Aditya6688/DSA-Ques/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Aditya6688/DSA-Ques/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Aditya6688/DSA-Ques/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Aditya6688/DSA-Ques/tree/master/0088-merge-sorted-array) |
@@ -141,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Aditya6688/DSA-Ques/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/Aditya6688/DSA-Ques/tree/master/0200-number-of-islands) |
 | [1036-rotting-oranges](https://github.com/Aditya6688/DSA-Ques/tree/master/1036-rotting-oranges) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Aditya6688/DSA-Ques/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -149,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Aditya6688/DSA-Ques/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Aditya6688/DSA-Ques/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/Aditya6688/DSA-Ques/tree/master/0735-asteroid-collision) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Aditya6688/DSA-Ques/tree/master/2324-find-triangular-sum-of-an-array) |
