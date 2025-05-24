@@ -219,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Aditya6688/DSA-Ques/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/Aditya6688/DSA-Ques/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/Aditya6688/DSA-Ques/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Aditya6688/DSA-Ques/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Aditya6688/DSA-Ques/tree/master/0151-reverse-words-in-a-string) |
@@ -481,6 +482,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Aditya6688/DSA-Ques/tree/master/0020-valid-parentheses) |
 | [0394-decode-string](https://github.com/Aditya6688/DSA-Ques/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/Aditya6688/DSA-Ques/tree/master/0735-asteroid-collision) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Aditya6688/DSA-Ques/tree/master/0957-minimum-add-to-make-parentheses-valid) |
