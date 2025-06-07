@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0289-game-of-life](https://github.com/Aditya6688/DSA-Ques/tree/master/0289-game-of-life) |
 | [0399-evaluate-division](https://github.com/Aditya6688/DSA-Ques/tree/master/0399-evaluate-division) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Aditya6688/DSA-Ques/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Aditya6688/DSA-Ques/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Aditya6688/DSA-Ques/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Aditya6688/DSA-Ques/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Aditya6688/DSA-Ques/tree/master/0643-maximum-average-subarray-i) |
@@ -133,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0168-excel-sheet-column-title](https://github.com/Aditya6688/DSA-Ques/tree/master/0168-excel-sheet-column-title) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Aditya6688/DSA-Ques/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Aditya6688/DSA-Ques/tree/master/0273-integer-to-english-words) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Aditya6688/DSA-Ques/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0670-maximum-swap](https://github.com/Aditya6688/DSA-Ques/tree/master/0670-maximum-swap) |
 | [1014-k-closest-points-to-origin](https://github.com/Aditya6688/DSA-Ques/tree/master/1014-k-closest-points-to-origin) |
 | [1086-divisor-game](https://github.com/Aditya6688/DSA-Ques/tree/master/1086-divisor-game) |
@@ -384,6 +386,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/Aditya6688/DSA-Ques/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Aditya6688/DSA-Ques/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aditya6688/DSA-Ques/tree/master/0215-kth-largest-element-in-an-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Aditya6688/DSA-Ques/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0778-reorganize-string](https://github.com/Aditya6688/DSA-Ques/tree/master/0778-reorganize-string) |
 | [0974-reorder-data-in-log-files](https://github.com/Aditya6688/DSA-Ques/tree/master/0974-reorder-data-in-log-files) |
 | [1014-k-closest-points-to-origin](https://github.com/Aditya6688/DSA-Ques/tree/master/1014-k-closest-points-to-origin) |
