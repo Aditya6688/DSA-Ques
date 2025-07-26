@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/Aditya6688/DSA-Ques/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aditya6688/DSA-Ques/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Aditya6688/DSA-Ques/tree/master/0238-product-of-array-except-self) |
+| [0274-h-index](https://github.com/Aditya6688/DSA-Ques/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Aditya6688/DSA-Ques/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Aditya6688/DSA-Ques/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/Aditya6688/DSA-Ques/tree/master/0289-game-of-life) |
@@ -394,6 +395,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/Aditya6688/DSA-Ques/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Aditya6688/DSA-Ques/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aditya6688/DSA-Ques/tree/master/0215-kth-largest-element-in-an-array) |
+| [0274-h-index](https://github.com/Aditya6688/DSA-Ques/tree/master/0274-h-index) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Aditya6688/DSA-Ques/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0778-reorganize-string](https://github.com/Aditya6688/DSA-Ques/tree/master/0778-reorganize-string) |
 | [0974-reorder-data-in-log-files](https://github.com/Aditya6688/DSA-Ques/tree/master/0974-reorder-data-in-log-files) |
@@ -598,4 +600,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2413-smallest-number-in-infinite-set](https://github.com/Aditya6688/DSA-Ques/tree/master/2413-smallest-number-in-infinite-set) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/Aditya6688/DSA-Ques/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
