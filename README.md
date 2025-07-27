@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aditya6688/DSA-Ques/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aditya6688/DSA-Ques/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Aditya6688/DSA-Ques/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/Aditya6688/DSA-Ques/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/Aditya6688/DSA-Ques/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Aditya6688/DSA-Ques/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Aditya6688/DSA-Ques/tree/master/0200-number-of-islands) |
@@ -379,6 +380,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/Aditya6688/DSA-Ques/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aditya6688/DSA-Ques/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Aditya6688/DSA-Ques/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/Aditya6688/DSA-Ques/tree/master/0135-candy) |
 | [0605-can-place-flowers](https://github.com/Aditya6688/DSA-Ques/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/Aditya6688/DSA-Ques/tree/master/0649-dota2-senate) |
 | [0670-maximum-swap](https://github.com/Aditya6688/DSA-Ques/tree/master/0670-maximum-swap) |
