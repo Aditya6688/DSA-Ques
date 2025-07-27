@@ -4,17 +4,14 @@ class Solution(object):
         :type strs: List[str]
         :rtype: str
         """
-        if not strs:
-            return ""
-            
         strs.sort()
-        start = strs[0]
-        end = strs[-1]
+        first = strs[0]
+        last = strs[-1]
         ans = ""
 
-        for i in range(min(len(start), len(end))):
-            if start[i] != end[i]:
-                return ans
-            ans += start[i]
-
-        return ans 
+        for i in range(min(len(first), len(last))):
+            if first[i] == last[i]:
+                ans += first[i]
+            else:
+                break
+        return ans
