@@ -1,36 +1,23 @@
 class Solution {
 public:
     int romanToInt(string s) {
+        unordered_map<char,int> mp;
+        mp['I'] = 1; mp['V'] = 5; mp['X'] = 10;
+        mp['L'] = 50; mp['C'] = 100; mp['D'] = 500; mp['M'] = 1000;
+        // mp['IV'] = 4; mp['IX'] = 9; mp['XL'] = 50; mp['XC'] = 90;
+        // mp['CD'] = 500; mp['CM'] = 900;
+
         int n = s.size();
-        int i = 0;
-        int sum = 0;
-        while(i<n){
-            if(i != n-1 and s[i] == 'I' and s[i+1] == 'V'){
-                sum += 4; i+=2;
+        int res = 0;
+        for(int i=0;i<n;i++){
+            if(i>0 and mp[s[i]] > mp[s[i-1]]){
+                res+=mp[s[i]];
+                res-=(2*mp[s[i-1]]);
             }
-            else if(i != n-1 and s[i] == 'I' and s[i+1] == 'X'){
-                sum += 9; i+=2;
+            else{
+                res+=mp[s[i]];
             }
-            else if(i != n-1 and s[i] == 'X' and s[i+1] == 'L'){
-                sum += 40; i+=2;
-            }
-            else if(i != n-1 and s[i] == 'X' and s[i+1] == 'C'){
-                sum += 90; i+=2;
-            }
-            else if(i != n-1 and s[i] == 'C' and s[i+1] == 'D'){
-                sum += 400; i+=2;
-            }
-            else if(i != n-1 and s[i] == 'C' and s[i+1] == 'M'){
-                sum += 900; i+=2;
-            }
-            else if(s[i] == 'I') {sum+=1; i++;}
-            else if(s[i] == 'V') {sum+=5; i++;}
-            else if(s[i] == 'X') {sum+=10; i++;}
-            else if(s[i] == 'L') {sum+=50; i++;}
-            else if(s[i] == 'C') {sum+=100; i++;}
-            else if(s[i] == 'D') {sum+=500; i++;}
-            else if(s[i] == 'M') {sum+=1000; i++;}
         }
-        return sum;
+        return res;
     }
 };
