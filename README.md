@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/Aditya6688/DSA-Ques/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Aditya6688/DSA-Ques/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Aditya6688/DSA-Ques/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/Aditya6688/DSA-Ques/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Aditya6688/DSA-Ques/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Aditya6688/DSA-Ques/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Aditya6688/DSA-Ques/tree/master/0088-merge-sorted-array) |
@@ -167,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/Aditya6688/DSA-Ques/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Aditya6688/DSA-Ques/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Aditya6688/DSA-Ques/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/Aditya6688/DSA-Ques/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/Aditya6688/DSA-Ques/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/Aditya6688/DSA-Ques/tree/master/0289-game-of-life) |
 | [1036-rotting-oranges](https://github.com/Aditya6688/DSA-Ques/tree/master/1036-rotting-oranges) |
@@ -309,6 +311,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/Aditya6688/DSA-Ques/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Aditya6688/DSA-Ques/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/Aditya6688/DSA-Ques/tree/master/0036-valid-sudoku) |
+| [0073-set-matrix-zeroes](https://github.com/Aditya6688/DSA-Ques/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Aditya6688/DSA-Ques/tree/master/0076-minimum-window-substring) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Aditya6688/DSA-Ques/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Aditya6688/DSA-Ques/tree/master/0169-majority-element) |
