@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/Aditya6688/DSA-Ques/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Aditya6688/DSA-Ques/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Aditya6688/DSA-Ques/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/Aditya6688/DSA-Ques/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Aditya6688/DSA-Ques/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Aditya6688/DSA-Ques/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Aditya6688/DSA-Ques/tree/master/0066-plus-one) |
@@ -140,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/Aditya6688/DSA-Ques/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Aditya6688/DSA-Ques/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Aditya6688/DSA-Ques/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Aditya6688/DSA-Ques/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Aditya6688/DSA-Ques/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Aditya6688/DSA-Ques/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Aditya6688/DSA-Ques/tree/master/0067-add-binary) |
@@ -163,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Aditya6688/DSA-Ques/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/Aditya6688/DSA-Ques/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Aditya6688/DSA-Ques/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/Aditya6688/DSA-Ques/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/Aditya6688/DSA-Ques/tree/master/0289-game-of-life) |
