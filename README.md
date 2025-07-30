@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/Aditya6688/DSA-Ques/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aditya6688/DSA-Ques/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aditya6688/DSA-Ques/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/Aditya6688/DSA-Ques/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/Aditya6688/DSA-Ques/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Aditya6688/DSA-Ques/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aditya6688/DSA-Ques/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -320,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/Aditya6688/DSA-Ques/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Aditya6688/DSA-Ques/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Aditya6688/DSA-Ques/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/Aditya6688/DSA-Ques/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Aditya6688/DSA-Ques/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Aditya6688/DSA-Ques/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Aditya6688/DSA-Ques/tree/master/0219-contains-duplicate-ii) |
@@ -386,6 +388,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Aditya6688/DSA-Ques/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Aditya6688/DSA-Ques/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/Aditya6688/DSA-Ques/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Aditya6688/DSA-Ques/tree/master/0547-number-of-provinces) |
