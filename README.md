@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/Aditya6688/DSA-Ques/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Aditya6688/DSA-Ques/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Aditya6688/DSA-Ques/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Aditya6688/DSA-Ques/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Aditya6688/DSA-Ques/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Aditya6688/DSA-Ques/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Aditya6688/DSA-Ques/tree/master/0066-plus-one) |
@@ -259,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/Aditya6688/DSA-Ques/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aditya6688/DSA-Ques/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Aditya6688/DSA-Ques/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0049-group-anagrams](https://github.com/Aditya6688/DSA-Ques/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Aditya6688/DSA-Ques/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Aditya6688/DSA-Ques/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Aditya6688/DSA-Ques/tree/master/0076-minimum-window-substring) |
@@ -314,6 +316,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/Aditya6688/DSA-Ques/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Aditya6688/DSA-Ques/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/Aditya6688/DSA-Ques/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/Aditya6688/DSA-Ques/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Aditya6688/DSA-Ques/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Aditya6688/DSA-Ques/tree/master/0076-minimum-window-substring) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Aditya6688/DSA-Ques/tree/master/0160-intersection-of-two-linked-lists) |
@@ -428,6 +431,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0015-3sum](https://github.com/Aditya6688/DSA-Ques/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Aditya6688/DSA-Ques/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/Aditya6688/DSA-Ques/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Aditya6688/DSA-Ques/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Aditya6688/DSA-Ques/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Aditya6688/DSA-Ques/tree/master/0169-majority-element) |
