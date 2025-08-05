@@ -156,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aditya6688/DSA-Ques/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/Aditya6688/DSA-Ques/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/Aditya6688/DSA-Ques/tree/master/0189-rotate-array) |
+| [0224-basic-calculator](https://github.com/Aditya6688/DSA-Ques/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Aditya6688/DSA-Ques/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Aditya6688/DSA-Ques/tree/master/0273-integer-to-english-words) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Aditya6688/DSA-Ques/tree/master/0380-insert-delete-getrandom-o1) |
@@ -275,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/Aditya6688/DSA-Ques/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Aditya6688/DSA-Ques/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Aditya6688/DSA-Ques/tree/master/0168-excel-sheet-column-title) |
+| [0224-basic-calculator](https://github.com/Aditya6688/DSA-Ques/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Aditya6688/DSA-Ques/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/Aditya6688/DSA-Ques/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/Aditya6688/DSA-Ques/tree/master/0273-integer-to-english-words) |
@@ -571,6 +573,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/Aditya6688/DSA-Ques/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Aditya6688/DSA-Ques/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aditya6688/DSA-Ques/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0224-basic-calculator](https://github.com/Aditya6688/DSA-Ques/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/Aditya6688/DSA-Ques/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/Aditya6688/DSA-Ques/tree/master/0735-asteroid-collision) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Aditya6688/DSA-Ques/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -610,6 +613,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/Aditya6688/DSA-Ques/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Aditya6688/DSA-Ques/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Aditya6688/DSA-Ques/tree/master/0273-integer-to-english-words) |
 | [0394-decode-string](https://github.com/Aditya6688/DSA-Ques/tree/master/0394-decode-string) |
