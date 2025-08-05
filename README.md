@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/Aditya6688/DSA-Ques/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Aditya6688/DSA-Ques/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Aditya6688/DSA-Ques/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/Aditya6688/DSA-Ques/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/Aditya6688/DSA-Ques/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Aditya6688/DSA-Ques/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Aditya6688/DSA-Ques/tree/master/0075-sort-colors) |
