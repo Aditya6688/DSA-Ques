@@ -146,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Aditya6688/DSA-Ques/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Aditya6688/DSA-Ques/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Aditya6688/DSA-Ques/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Aditya6688/DSA-Ques/tree/master/0013-roman-to-integer) |
@@ -610,12 +611,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Aditya6688/DSA-Ques/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/Aditya6688/DSA-Ques/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Aditya6688/DSA-Ques/tree/master/0160-intersection-of-two-linked-lists) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Aditya6688/DSA-Ques/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Aditya6688/DSA-Ques/tree/master/0002-add-two-numbers) |
 | [0224-basic-calculator](https://github.com/Aditya6688/DSA-Ques/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Aditya6688/DSA-Ques/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Aditya6688/DSA-Ques/tree/master/0273-integer-to-english-words) |
