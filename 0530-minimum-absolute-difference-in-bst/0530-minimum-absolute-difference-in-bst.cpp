@@ -14,15 +14,15 @@ public:
     void inorder(TreeNode* root, vector<int> &res){
         if(!root) return;
         
-        res.push_back(root->val);
         inorder(root->left,res);
+        res.push_back(root->val);
         inorder(root->right,res);
     }
     int getMinimumDifference(TreeNode* root) {
         if(!root) return 0;
         vector<int> res;
         inorder(root,res);
-        sort(res.begin(),res.end());
+        // sort(res.begin(),res.end());
         int n = res.size();
         int ans = INT_MAX;
         for(int i=1;i<n;i++){
