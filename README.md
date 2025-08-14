@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aditya6688/DSA-Ques/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aditya6688/DSA-Ques/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Aditya6688/DSA-Ques/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/Aditya6688/DSA-Ques/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/Aditya6688/DSA-Ques/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Aditya6688/DSA-Ques/tree/master/0135-candy) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aditya6688/DSA-Ques/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -181,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/Aditya6688/DSA-Ques/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Aditya6688/DSA-Ques/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Aditya6688/DSA-Ques/tree/master/0073-set-matrix-zeroes) |
+| [0130-surrounded-regions](https://github.com/Aditya6688/DSA-Ques/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Aditya6688/DSA-Ques/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/Aditya6688/DSA-Ques/tree/master/0289-game-of-life) |
 | [1036-rotting-oranges](https://github.com/Aditya6688/DSA-Ques/tree/master/1036-rotting-oranges) |
@@ -380,6 +382,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aditya6688/DSA-Ques/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Aditya6688/DSA-Ques/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Aditya6688/DSA-Ques/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0130-surrounded-regions](https://github.com/Aditya6688/DSA-Ques/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Aditya6688/DSA-Ques/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Aditya6688/DSA-Ques/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Aditya6688/DSA-Ques/tree/master/0207-course-schedule) |
@@ -405,6 +408,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0102-binary-tree-level-order-traversal](https://github.com/Aditya6688/DSA-Ques/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aditya6688/DSA-Ques/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Aditya6688/DSA-Ques/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0130-surrounded-regions](https://github.com/Aditya6688/DSA-Ques/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Aditya6688/DSA-Ques/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Aditya6688/DSA-Ques/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Aditya6688/DSA-Ques/tree/master/0207-course-schedule) |
@@ -423,6 +427,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Aditya6688/DSA-Ques/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/Aditya6688/DSA-Ques/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Aditya6688/DSA-Ques/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/Aditya6688/DSA-Ques/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Aditya6688/DSA-Ques/tree/master/0547-number-of-provinces) |
