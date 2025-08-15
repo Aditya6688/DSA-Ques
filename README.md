@@ -297,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0394-decode-string](https://github.com/Aditya6688/DSA-Ques/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/Aditya6688/DSA-Ques/tree/master/0399-evaluate-division) |
 | [0424-longest-repeating-character-replacement](https://github.com/Aditya6688/DSA-Ques/tree/master/0424-longest-repeating-character-replacement) |
+| [0433-minimum-genetic-mutation](https://github.com/Aditya6688/DSA-Ques/tree/master/0433-minimum-genetic-mutation) |
 | [0443-string-compression](https://github.com/Aditya6688/DSA-Ques/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Aditya6688/DSA-Ques/tree/master/0567-permutation-in-string) |
 | [0649-dota2-senate](https://github.com/Aditya6688/DSA-Ques/tree/master/0649-dota2-senate) |
@@ -353,6 +354,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0380-insert-delete-getrandom-o1](https://github.com/Aditya6688/DSA-Ques/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/Aditya6688/DSA-Ques/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/Aditya6688/DSA-Ques/tree/master/0424-longest-repeating-character-replacement) |
+| [0433-minimum-genetic-mutation](https://github.com/Aditya6688/DSA-Ques/tree/master/0433-minimum-genetic-mutation) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Aditya6688/DSA-Ques/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Aditya6688/DSA-Ques/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Aditya6688/DSA-Ques/tree/master/0567-permutation-in-string) |
@@ -419,6 +421,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/Aditya6688/DSA-Ques/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Aditya6688/DSA-Ques/tree/master/0226-invert-binary-tree) |
 | [0399-evaluate-division](https://github.com/Aditya6688/DSA-Ques/tree/master/0399-evaluate-division) |
+| [0433-minimum-genetic-mutation](https://github.com/Aditya6688/DSA-Ques/tree/master/0433-minimum-genetic-mutation) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Aditya6688/DSA-Ques/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/Aditya6688/DSA-Ques/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Aditya6688/DSA-Ques/tree/master/0637-average-of-levels-in-binary-tree) |
