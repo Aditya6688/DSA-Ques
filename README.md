@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0442-find-all-duplicates-in-an-array](https://github.com/Aditya6688/DSA-Ques/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Aditya6688/DSA-Ques/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Aditya6688/DSA-Ques/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0502-ipo](https://github.com/Aditya6688/DSA-Ques/tree/master/0502-ipo) |
 | [0560-subarray-sum-equals-k](https://github.com/Aditya6688/DSA-Ques/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Aditya6688/DSA-Ques/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Aditya6688/DSA-Ques/tree/master/0643-maximum-average-subarray-i) |
@@ -470,6 +471,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0134-gas-station](https://github.com/Aditya6688/DSA-Ques/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Aditya6688/DSA-Ques/tree/master/0135-candy) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Aditya6688/DSA-Ques/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0502-ipo](https://github.com/Aditya6688/DSA-Ques/tree/master/0502-ipo) |
 | [0605-can-place-flowers](https://github.com/Aditya6688/DSA-Ques/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/Aditya6688/DSA-Ques/tree/master/0649-dota2-senate) |
 | [0670-maximum-swap](https://github.com/Aditya6688/DSA-Ques/tree/master/0670-maximum-swap) |
@@ -499,6 +501,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0274-h-index](https://github.com/Aditya6688/DSA-Ques/tree/master/0274-h-index) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Aditya6688/DSA-Ques/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Aditya6688/DSA-Ques/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0502-ipo](https://github.com/Aditya6688/DSA-Ques/tree/master/0502-ipo) |
 | [0778-reorganize-string](https://github.com/Aditya6688/DSA-Ques/tree/master/0778-reorganize-string) |
 | [0974-reorder-data-in-log-files](https://github.com/Aditya6688/DSA-Ques/tree/master/0974-reorder-data-in-log-files) |
 | [1014-k-closest-points-to-origin](https://github.com/Aditya6688/DSA-Ques/tree/master/1014-k-closest-points-to-origin) |
@@ -516,6 +519,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aditya6688/DSA-Ques/tree/master/0215-kth-largest-element-in-an-array) |
+| [0502-ipo](https://github.com/Aditya6688/DSA-Ques/tree/master/0502-ipo) |
 | [0778-reorganize-string](https://github.com/Aditya6688/DSA-Ques/tree/master/0778-reorganize-string) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Aditya6688/DSA-Ques/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/Aditya6688/DSA-Ques/tree/master/1014-k-closest-points-to-origin) |
