@@ -97,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/Aditya6688/DSA-Ques/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Aditya6688/DSA-Ques/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/Aditya6688/DSA-Ques/tree/master/0289-game-of-life) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Aditya6688/DSA-Ques/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Aditya6688/DSA-Ques/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/Aditya6688/DSA-Ques/tree/master/0399-evaluate-division) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Aditya6688/DSA-Ques/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -522,6 +523,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aditya6688/DSA-Ques/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/Aditya6688/DSA-Ques/tree/master/0295-find-median-from-data-stream) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Aditya6688/DSA-Ques/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/Aditya6688/DSA-Ques/tree/master/0502-ipo) |
 | [0778-reorganize-string](https://github.com/Aditya6688/DSA-Ques/tree/master/0778-reorganize-string) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Aditya6688/DSA-Ques/tree/master/0789-kth-largest-element-in-a-stream) |
