@@ -622,6 +622,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aditya6688/DSA-Ques/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Aditya6688/DSA-Ques/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/Aditya6688/DSA-Ques/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/Aditya6688/DSA-Ques/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aditya6688/DSA-Ques/tree/master/0215-kth-largest-element-in-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Aditya6688/DSA-Ques/tree/master/1014-k-closest-points-to-origin) |
 ## Geometry
@@ -685,6 +686,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Aditya6688/DSA-Ques/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/Aditya6688/DSA-Ques/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Aditya6688/DSA-Ques/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/Aditya6688/DSA-Ques/tree/master/0287-find-the-duplicate-number) |
 ## Linked List
