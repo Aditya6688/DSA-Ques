@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/Aditya6688/DSA-Ques/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/Aditya6688/DSA-Ques/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Aditya6688/DSA-Ques/tree/master/0135-candy) |
+| [0137-single-number-ii](https://github.com/Aditya6688/DSA-Ques/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aditya6688/DSA-Ques/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aditya6688/DSA-Ques/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Aditya6688/DSA-Ques/tree/master/0169-majority-element) |
@@ -686,6 +687,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Aditya6688/DSA-Ques/tree/master/0067-add-binary) |
+| [0137-single-number-ii](https://github.com/Aditya6688/DSA-Ques/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/Aditya6688/DSA-Ques/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Aditya6688/DSA-Ques/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/Aditya6688/DSA-Ques/tree/master/0287-find-the-duplicate-number) |
