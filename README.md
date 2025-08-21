@@ -173,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/Aditya6688/DSA-Ques/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Aditya6688/DSA-Ques/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Aditya6688/DSA-Ques/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Aditya6688/DSA-Ques/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aditya6688/DSA-Ques/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/Aditya6688/DSA-Ques/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/Aditya6688/DSA-Ques/tree/master/0189-rotate-array) |
@@ -230,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/Aditya6688/DSA-Ques/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Aditya6688/DSA-Ques/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Aditya6688/DSA-Ques/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/Aditya6688/DSA-Ques/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aditya6688/DSA-Ques/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aditya6688/DSA-Ques/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Aditya6688/DSA-Ques/tree/master/0241-different-ways-to-add-parentheses) |
@@ -808,6 +810,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Aditya6688/DSA-Ques/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Aditya6688/DSA-Ques/tree/master/0241-different-ways-to-add-parentheses) |
 ## Ordered Set
 |  |
