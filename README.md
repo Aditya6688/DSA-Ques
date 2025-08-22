@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/Aditya6688/DSA-Ques/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aditya6688/DSA-Ques/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/Aditya6688/DSA-Ques/tree/master/0219-contains-duplicate-ii) |
+| [0221-maximal-square](https://github.com/Aditya6688/DSA-Ques/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/Aditya6688/DSA-Ques/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/Aditya6688/DSA-Ques/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Aditya6688/DSA-Ques/tree/master/0274-h-index) |
@@ -210,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/Aditya6688/DSA-Ques/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/Aditya6688/DSA-Ques/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Aditya6688/DSA-Ques/tree/master/0200-number-of-islands) |
+| [0221-maximal-square](https://github.com/Aditya6688/DSA-Ques/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/Aditya6688/DSA-Ques/tree/master/0289-game-of-life) |
 | [0772-construct-quad-tree](https://github.com/Aditya6688/DSA-Ques/tree/master/0772-construct-quad-tree) |
 | [0945-snakes-and-ladders](https://github.com/Aditya6688/DSA-Ques/tree/master/0945-snakes-and-ladders) |
@@ -250,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/Aditya6688/DSA-Ques/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Aditya6688/DSA-Ques/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Aditya6688/DSA-Ques/tree/master/0198-house-robber) |
+| [0221-maximal-square](https://github.com/Aditya6688/DSA-Ques/tree/master/0221-maximal-square) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Aditya6688/DSA-Ques/tree/master/0241-different-ways-to-add-parentheses) |
 | [0392-is-subsequence](https://github.com/Aditya6688/DSA-Ques/tree/master/0392-is-subsequence) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Aditya6688/DSA-Ques/tree/master/0954-maximum-sum-circular-subarray) |
