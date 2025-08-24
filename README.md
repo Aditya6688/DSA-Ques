@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/Aditya6688/DSA-Ques/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Aditya6688/DSA-Ques/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aditya6688/DSA-Ques/tree/master/0209-minimum-size-subarray-sum) |
+| [0212-word-search-ii](https://github.com/Aditya6688/DSA-Ques/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aditya6688/DSA-Ques/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/Aditya6688/DSA-Ques/tree/master/0219-contains-duplicate-ii) |
 | [0221-maximal-square](https://github.com/Aditya6688/DSA-Ques/tree/master/0221-maximal-square) |
@@ -213,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/Aditya6688/DSA-Ques/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/Aditya6688/DSA-Ques/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Aditya6688/DSA-Ques/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/Aditya6688/DSA-Ques/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/Aditya6688/DSA-Ques/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/Aditya6688/DSA-Ques/tree/master/0289-game-of-life) |
 | [0772-construct-quad-tree](https://github.com/Aditya6688/DSA-Ques/tree/master/0772-construct-quad-tree) |
@@ -337,6 +339,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/Aditya6688/DSA-Ques/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Aditya6688/DSA-Ques/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Aditya6688/DSA-Ques/tree/master/0168-excel-sheet-column-title) |
+| [0212-word-search-ii](https://github.com/Aditya6688/DSA-Ques/tree/master/0212-word-search-ii) |
 | [0224-basic-calculator](https://github.com/Aditya6688/DSA-Ques/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Aditya6688/DSA-Ques/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/Aditya6688/DSA-Ques/tree/master/0242-valid-anagram) |
@@ -673,6 +676,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Aditya6688/DSA-Ques/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/Aditya6688/DSA-Ques/tree/master/0139-word-break) |
+| [0212-word-search-ii](https://github.com/Aditya6688/DSA-Ques/tree/master/0212-word-search-ii) |
 | [0386-lexicographical-numbers](https://github.com/Aditya6688/DSA-Ques/tree/master/0386-lexicographical-numbers) |
 | [1397-search-suggestions-system](https://github.com/Aditya6688/DSA-Ques/tree/master/1397-search-suggestions-system) |
 | [2755-extra-characters-in-a-string](https://github.com/Aditya6688/DSA-Ques/tree/master/2755-extra-characters-in-a-string) |
@@ -835,6 +839,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/Aditya6688/DSA-Ques/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Aditya6688/DSA-Ques/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Aditya6688/DSA-Ques/tree/master/0077-combinations) |
+| [0212-word-search-ii](https://github.com/Aditya6688/DSA-Ques/tree/master/0212-word-search-ii) |
 ## Queue
 |  |
 | ------- |
