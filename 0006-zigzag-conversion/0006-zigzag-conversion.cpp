@@ -1,20 +1,24 @@
 class Solution {
 public:
     string convert(string s, int numRows) {
-        if (numRows == 1 || s.size() <= numRows) return s;
+        map<int,string> mp;
+        if (numRows == 1) return s;
+        int n = s.size();
+        int a = 0;
+        bool st = true;
 
-        vector<string> rows(min(numRows, int(s.size())));
-        int currRow = 0;
-        bool goingDown = false;
+        for(int i=0;i<n;i++){
+            mp[a]+=s[i];
+            if(st == true) a++;
+            else a--;
 
-        for (char c : s) {
-            rows[currRow] += c;
-            if (currRow == 0 || currRow == numRows - 1) goingDown = !goingDown;
-            currRow += goingDown ? 1 : -1;
+            if(a == 0 || a == numRows-1) st = !st;
         }
 
-        string res;
-        for (string row : rows) res += row;
+        string res = "";
+        for(auto &x:mp){
+            res+=x.second;
+        }
         return res;
     }
 };
