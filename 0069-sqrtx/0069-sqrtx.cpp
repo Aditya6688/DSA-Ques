@@ -1,19 +1,17 @@
 class Solution {
 public:
     int mySqrt(int x) {
-        int res = 0;
-        if(x == 0) return 0;
-        if(x<=3) return 1;
-        for(long long i=0;i<=x/2+1;i++){
-            if(i*i == x){
-                res = i;
+        long long ans = 0;
+        if(x==0) return 0;
+        if(x<4) return 1;
+
+        for(long long i=1;i*i<=x;i++){
+            if(i*i>x){
+                ans = i-1;
                 break;
             }
-            else if(i*i>x){
-                res = i-1;
-                break;
-            }
+            ans = i;
         }
-        return res;
+        return ans;
     }
 };
