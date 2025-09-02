@@ -1,44 +1,35 @@
 class Solution {
 public:
-    int trap(vector<int>& arr) {
-    int n = arr.size();
-    int size = n - 1; 
- 
-    int prev = arr[0]; 
-    int prev_index = 0; 
-    int water = 0; 
-  
-    long long temp = 0; 
-    for (int i = 1; i <= size; i++) { 
-  
-        if (arr[i] >= prev) { 
-            prev = arr[i]; 
-            prev_index = i; 
-  
-            temp = 0; 
-        } 
-        else { 
-  
-            water += prev - arr[i]; 
-  
-            temp += prev - arr[i]; 
-        } 
-    } 
-  
-    if (prev_index < size) { 
-        water -= temp; 
-        prev = arr[size]; 
-  
-        for (int i = size; i >= prev_index; i--) { 
+    int trap(vector<int>& height) {
+        int sum = 0;
+        int n = height.size();
+        int maxi = height[0];
+        if(n<3) return 0;
+        int ind = 0;
 
-            if (arr[i] >= prev) { 
-                prev = arr[i]; 
-            } 
-            else { 
-                water += prev - arr[i]; 
-            } 
-        } 
-    } 
-    return water; 
+        for(int i=1;i<n;i++){
+            if(maxi>height[i]){
+                sum += (maxi-height[i]);
+            }
+            else{
+                maxi = height[i];
+                ind = i;
+            }
+        }
+
+        if(ind == n-1) return sum;
+        int rmaxi = height[n-1];
+        sum -= (maxi-rmaxi);
+
+        for(int i=n-2;i>=ind;i--){
+            if(height[i]>rmaxi){
+                rmaxi = height[i];
+                sum -= (maxi-rmaxi);
+            }
+            else{
+                sum -= (maxi-rmaxi);
+            }
+        }
+        return sum;
     }
 };
