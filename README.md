@@ -189,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0168-excel-sheet-column-title](https://github.com/Aditya6688/DSA-Ques/tree/master/0168-excel-sheet-column-title) |
 | [0172-factorial-trailing-zeroes](https://github.com/Aditya6688/DSA-Ques/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Aditya6688/DSA-Ques/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Aditya6688/DSA-Ques/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/Aditya6688/DSA-Ques/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Aditya6688/DSA-Ques/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Aditya6688/DSA-Ques/tree/master/0273-integer-to-english-words) |
@@ -303,6 +304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0160-intersection-of-two-linked-lists](https://github.com/Aditya6688/DSA-Ques/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aditya6688/DSA-Ques/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Aditya6688/DSA-Ques/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Aditya6688/DSA-Ques/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Aditya6688/DSA-Ques/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Aditya6688/DSA-Ques/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/Aditya6688/DSA-Ques/tree/master/0295-find-median-from-data-stream) |
@@ -410,6 +412,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/Aditya6688/DSA-Ques/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Aditya6688/DSA-Ques/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Aditya6688/DSA-Ques/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Aditya6688/DSA-Ques/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Aditya6688/DSA-Ques/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/Aditya6688/DSA-Ques/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Aditya6688/DSA-Ques/tree/master/0242-valid-anagram) |
