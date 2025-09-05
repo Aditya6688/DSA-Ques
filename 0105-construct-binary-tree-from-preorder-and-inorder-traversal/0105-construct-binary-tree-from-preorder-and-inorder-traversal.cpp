@@ -11,27 +11,27 @@
  */
 class Solution {
 public:
-    int pi = 0;
+    int prei = 0;
     TreeNode* func(vector<int>& preorder, vector<int>& inorder, int is, int ie){
-        if(is>ie) return NULL;
-        TreeNode* curr = new TreeNode(preorder[pi++]);
+        if(is>ie) return nullptr;
 
-        int inind;
+        TreeNode* curr = new TreeNode(preorder[prei++]);
+        int inidx = 0;
+
         for(int i=is;i<=ie;i++){
             if(inorder[i] == curr->val){
-                inind = i;
+                inidx = i;
                 break;
             }
         }
 
-        curr->left = func(preorder, inorder, is, inind-1);
-        curr->right = func(preorder, inorder, inind+1, ie);
+        curr->left = func(preorder,inorder,is,inidx-1);
+        curr->right = func(preorder,inorder,inidx+1,ie);
 
         return curr;
-
     }
     TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
-        TreeNode* res = func(preorder, inorder, 0,inorder.size()-1);
-        return res;
+        int n = preorder.size()-1;
+        return func(preorder,inorder,0,n);
     }
 };
