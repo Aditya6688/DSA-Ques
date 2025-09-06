@@ -352,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/Aditya6688/DSA-Ques/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/Aditya6688/DSA-Ques/tree/master/0273-integer-to-english-words) |
 | [0290-word-pattern](https://github.com/Aditya6688/DSA-Ques/tree/master/0290-word-pattern) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Aditya6688/DSA-Ques/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0316-remove-duplicate-letters](https://github.com/Aditya6688/DSA-Ques/tree/master/0316-remove-duplicate-letters) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Aditya6688/DSA-Ques/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Aditya6688/DSA-Ques/tree/master/0383-ransom-note) |
@@ -461,6 +462,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/Aditya6688/DSA-Ques/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aditya6688/DSA-Ques/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aditya6688/DSA-Ques/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Aditya6688/DSA-Ques/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/Aditya6688/DSA-Ques/tree/master/0386-lexicographical-numbers) |
 | [0399-evaluate-division](https://github.com/Aditya6688/DSA-Ques/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/Aditya6688/DSA-Ques/tree/master/0437-path-sum-iii) |
@@ -487,6 +489,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/Aditya6688/DSA-Ques/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Aditya6688/DSA-Ques/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Aditya6688/DSA-Ques/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Aditya6688/DSA-Ques/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0399-evaluate-division](https://github.com/Aditya6688/DSA-Ques/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/Aditya6688/DSA-Ques/tree/master/0433-minimum-genetic-mutation) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Aditya6688/DSA-Ques/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -625,6 +628,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/Aditya6688/DSA-Ques/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aditya6688/DSA-Ques/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aditya6688/DSA-Ques/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Aditya6688/DSA-Ques/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Aditya6688/DSA-Ques/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/Aditya6688/DSA-Ques/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Aditya6688/DSA-Ques/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -654,6 +658,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/Aditya6688/DSA-Ques/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aditya6688/DSA-Ques/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aditya6688/DSA-Ques/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Aditya6688/DSA-Ques/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Aditya6688/DSA-Ques/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/Aditya6688/DSA-Ques/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Aditya6688/DSA-Ques/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -832,6 +837,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0208-implement-trie-prefix-tree](https://github.com/Aditya6688/DSA-Ques/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Aditya6688/DSA-Ques/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0295-find-median-from-data-stream](https://github.com/Aditya6688/DSA-Ques/tree/master/0295-find-median-from-data-stream) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Aditya6688/DSA-Ques/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Aditya6688/DSA-Ques/tree/master/0380-insert-delete-getrandom-o1) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Aditya6688/DSA-Ques/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Aditya6688/DSA-Ques/tree/master/2413-smallest-number-in-infinite-set) |
