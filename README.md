@@ -262,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/Aditya6688/DSA-Ques/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/Aditya6688/DSA-Ques/tree/master/0221-maximal-square) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Aditya6688/DSA-Ques/tree/master/0241-different-ways-to-add-parentheses) |
+| [0338-counting-bits](https://github.com/Aditya6688/DSA-Ques/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Aditya6688/DSA-Ques/tree/master/0392-is-subsequence) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Aditya6688/DSA-Ques/tree/master/0954-maximum-sum-circular-subarray) |
 | [1086-divisor-game](https://github.com/Aditya6688/DSA-Ques/tree/master/1086-divisor-game) |
@@ -784,6 +785,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0190-reverse-bits](https://github.com/Aditya6688/DSA-Ques/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Aditya6688/DSA-Ques/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/Aditya6688/DSA-Ques/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/Aditya6688/DSA-Ques/tree/master/0338-counting-bits) |
 ## Linked List
 |  |
 | ------- |
