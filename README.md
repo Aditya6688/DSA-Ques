@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/Aditya6688/DSA-Ques/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Aditya6688/DSA-Ques/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Aditya6688/DSA-Ques/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Aditya6688/DSA-Ques/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Aditya6688/DSA-Ques/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Aditya6688/DSA-Ques/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aditya6688/DSA-Ques/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -781,6 +782,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Aditya6688/DSA-Ques/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Aditya6688/DSA-Ques/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/Aditya6688/DSA-Ques/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/Aditya6688/DSA-Ques/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Aditya6688/DSA-Ques/tree/master/0222-count-complete-tree-nodes) |
@@ -872,6 +874,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/Aditya6688/DSA-Ques/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Aditya6688/DSA-Ques/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Aditya6688/DSA-Ques/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/Aditya6688/DSA-Ques/tree/master/0078-subsets) |
 | [0212-word-search-ii](https://github.com/Aditya6688/DSA-Ques/tree/master/0212-word-search-ii) |
 ## Queue
 |  |
