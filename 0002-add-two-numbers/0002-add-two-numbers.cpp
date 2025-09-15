@@ -11,18 +11,44 @@
 class Solution {
 public:
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
-        ListNode* ans = new ListNode(0);
-        int carry = 0;
-        ListNode* cur = ans;
+        if(!l1 && !l2) return nullptr;
+        if(!l1) return l2;
+        if(!l2) return l1;
 
-        while(l1 != nullptr || l2 != nullptr || carry != 0) {
-            int s1 = (l1 != nullptr ? l1->val : 0) + (l2 != nullptr ? l2->val : 0) + carry;
-            carry = s1/10;
-            cur->next = new ListNode(s1%10);
-            cur = cur->next;
-            l1 = (l1 == nullptr ? nullptr : l1->next);
-            l2 = (l2 == nullptr ? nullptr : l2->next);
+        vector<int> v;
+        int carry = 0;
+
+        while(l1 && l2){
+            int sum = l1->val+l2->val+carry;
+            v.push_back(sum%10);
+            carry = sum/10;
+            l1 = l1->next;
+            l2 = l2->next;
         }
-        return ans->next;
+
+        while(l1){
+            int sum = l1->val+carry;
+            v.push_back(sum%10);
+            carry = sum/10;
+            l1 = l1->next;
+        }
+
+        while(l2){
+            int sum = l2->val+carry;
+            v.push_back(sum%10);
+            carry = sum/10;
+            l2 = l2->next;
+        }
+
+        if(carry>0) v.push_back(carry);
+
+        ListNode* head = new ListNode(v[0]);
+        ListNode* temp = head;
+        for(int i=1;i<v.size();i++){
+            temp->next = new ListNode(v[i]);
+            temp = temp->next;
+        }
+
+        return head;
     }
 };
