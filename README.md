@@ -452,6 +452,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0098-validate-binary-search-tree](https://github.com/Aditya6688/DSA-Ques/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Aditya6688/DSA-Ques/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aditya6688/DSA-Ques/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0113-path-sum-ii](https://github.com/Aditya6688/DSA-Ques/tree/master/0113-path-sum-ii) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Aditya6688/DSA-Ques/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Aditya6688/DSA-Ques/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0130-surrounded-regions](https://github.com/Aditya6688/DSA-Ques/tree/master/0130-surrounded-regions) |
@@ -624,6 +625,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aditya6688/DSA-Ques/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Aditya6688/DSA-Ques/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aditya6688/DSA-Ques/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0113-path-sum-ii](https://github.com/Aditya6688/DSA-Ques/tree/master/0113-path-sum-ii) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Aditya6688/DSA-Ques/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Aditya6688/DSA-Ques/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/Aditya6688/DSA-Ques/tree/master/0199-binary-tree-right-side-view) |
@@ -654,6 +656,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aditya6688/DSA-Ques/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Aditya6688/DSA-Ques/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aditya6688/DSA-Ques/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0113-path-sum-ii](https://github.com/Aditya6688/DSA-Ques/tree/master/0113-path-sum-ii) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Aditya6688/DSA-Ques/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Aditya6688/DSA-Ques/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/Aditya6688/DSA-Ques/tree/master/0199-binary-tree-right-side-view) |
@@ -875,6 +878,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/Aditya6688/DSA-Ques/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Aditya6688/DSA-Ques/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Aditya6688/DSA-Ques/tree/master/0078-subsets) |
+| [0113-path-sum-ii](https://github.com/Aditya6688/DSA-Ques/tree/master/0113-path-sum-ii) |
 | [0212-word-search-ii](https://github.com/Aditya6688/DSA-Ques/tree/master/0212-word-search-ii) |
 ## Queue
 |  |
