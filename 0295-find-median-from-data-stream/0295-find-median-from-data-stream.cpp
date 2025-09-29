@@ -1,52 +1,37 @@
 class MedianFinder {
 public:
-    std::vector<int> list;
-
-    MedianFinder() {
-        // The list is initialized automatically.
-    }
+    priority_queue<int,vector<int>,greater<int>> right;
+    priority_queue<int> left;
+    MedianFinder() {}
     
     void addNum(int num) {
-        int insertionPoint = findInsertionPoint(num);
-        list.insert(list.begin() + insertionPoint, num);
-    }
-
-    double findMedian() {
-        int l = list.size();
-        if (l == 0) {
-            return 0.0;
-        }
-
-        if (l % 2 == 1) {
-            return list[l / 2];
+        if(left.empty() || num<left.top()){
+            left.push(num);
         } else {
-            return (list[l / 2 - 1] + list[l / 2]) / 2.0;
+            right.push(num);
+        }
+
+        if(abs((int)left.size()-(int)right.size())>1){
+            right.push(left.top());
+            left.pop();
+        } else if(left.size()<right.size()) {
+            left.push(right.top());
+            right.pop();
         }
     }
-
-private:
-    int findInsertionPoint(int target) {
-        int s = 0;
-        int e = list.size() - 1;
-        int m;
-
-        if (list.empty()) {
-            return 0;
+    
+    double findMedian() {
+        if(left.size()==right.size()) {
+            return (left.top()+right.top())/2.0;
+        } else {
+            return left.top();
         }
-
-        while (s <= e) {
-            m = s + (e - s) / 2;
-            int midVal = list[m];
-            
-            if (midVal == target) {
-                return m;
-            } else if (midVal < target) {
-                s = m + 1;
-            } else {
-                e = m - 1;
-            }
-        }
-        
-        return s;
     }
 };
+
+/**
+ * Your MedianFinder object will be instantiated and called as such:
+ * MedianFinder* obj = new MedianFinder();
+ * obj->addNum(num);
+ * double param_2 = obj->findMedian();
+ */
