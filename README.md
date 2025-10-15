@@ -156,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Aditya6688/DSA-Ques/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Aditya6688/DSA-Ques/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Aditya6688/DSA-Ques/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/Aditya6688/DSA-Ques/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1694-make-sum-divisible-by-p](https://github.com/Aditya6688/DSA-Ques/tree/master/1694-make-sum-divisible-by-p) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Aditya6688/DSA-Ques/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Aditya6688/DSA-Ques/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -275,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Aditya6688/DSA-Ques/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1511-count-number-of-teams](https://github.com/Aditya6688/DSA-Ques/tree/master/1511-count-number-of-teams) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Aditya6688/DSA-Ques/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/Aditya6688/DSA-Ques/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Aditya6688/DSA-Ques/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1764-maximum-repeating-substring](https://github.com/Aditya6688/DSA-Ques/tree/master/1764-maximum-repeating-substring) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/Aditya6688/DSA-Ques/tree/master/2205-find-good-days-to-rob-the-bank) |
@@ -595,6 +597,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1397-search-suggestions-system](https://github.com/Aditya6688/DSA-Ques/tree/master/1397-search-suggestions-system) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Aditya6688/DSA-Ques/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Aditya6688/DSA-Ques/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/Aditya6688/DSA-Ques/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Aditya6688/DSA-Ques/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Aditya6688/DSA-Ques/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Aditya6688/DSA-Ques/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
