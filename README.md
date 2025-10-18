@@ -273,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/Aditya6688/DSA-Ques/tree/master/0392-is-subsequence) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Aditya6688/DSA-Ques/tree/master/0954-maximum-sum-circular-subarray) |
 | [1086-divisor-game](https://github.com/Aditya6688/DSA-Ques/tree/master/1086-divisor-game) |
+| [1250-longest-common-subsequence](https://github.com/Aditya6688/DSA-Ques/tree/master/1250-longest-common-subsequence) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Aditya6688/DSA-Ques/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1511-count-number-of-teams](https://github.com/Aditya6688/DSA-Ques/tree/master/1511-count-number-of-teams) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Aditya6688/DSA-Ques/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -382,6 +383,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Aditya6688/DSA-Ques/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0974-reorder-data-in-log-files](https://github.com/Aditya6688/DSA-Ques/tree/master/0974-reorder-data-in-log-files) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Aditya6688/DSA-Ques/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1250-longest-common-subsequence](https://github.com/Aditya6688/DSA-Ques/tree/master/1250-longest-common-subsequence) |
 | [1304-longest-happy-string](https://github.com/Aditya6688/DSA-Ques/tree/master/1304-longest-happy-string) |
 | [1397-search-suggestions-system](https://github.com/Aditya6688/DSA-Ques/tree/master/1397-search-suggestions-system) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Aditya6688/DSA-Ques/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
