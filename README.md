@@ -264,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0120-triangle](https://github.com/Aditya6688/DSA-Ques/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aditya6688/DSA-Ques/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aditya6688/DSA-Ques/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0131-palindrome-partitioning](https://github.com/Aditya6688/DSA-Ques/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Aditya6688/DSA-Ques/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Aditya6688/DSA-Ques/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Aditya6688/DSA-Ques/tree/master/0198-house-robber) |
@@ -354,6 +355,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/Aditya6688/DSA-Ques/tree/master/0076-minimum-window-substring) |
 | [0097-interleaving-string](https://github.com/Aditya6688/DSA-Ques/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/Aditya6688/DSA-Ques/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/Aditya6688/DSA-Ques/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Aditya6688/DSA-Ques/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Aditya6688/DSA-Ques/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Aditya6688/DSA-Ques/tree/master/0168-excel-sheet-column-title) |
@@ -915,6 +917,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0077-combinations](https://github.com/Aditya6688/DSA-Ques/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Aditya6688/DSA-Ques/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/Aditya6688/DSA-Ques/tree/master/0113-path-sum-ii) |
+| [0131-palindrome-partitioning](https://github.com/Aditya6688/DSA-Ques/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/Aditya6688/DSA-Ques/tree/master/0212-word-search-ii) |
 ## Queue
 |  |
