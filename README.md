@@ -122,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/Aditya6688/DSA-Ques/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Aditya6688/DSA-Ques/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/Aditya6688/DSA-Ques/tree/master/0289-game-of-life) |
+| [0322-coin-change](https://github.com/Aditya6688/DSA-Ques/tree/master/0322-coin-change) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Aditya6688/DSA-Ques/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Aditya6688/DSA-Ques/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/Aditya6688/DSA-Ques/tree/master/0399-evaluate-division) |
@@ -270,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/Aditya6688/DSA-Ques/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/Aditya6688/DSA-Ques/tree/master/0221-maximal-square) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Aditya6688/DSA-Ques/tree/master/0241-different-ways-to-add-parentheses) |
+| [0322-coin-change](https://github.com/Aditya6688/DSA-Ques/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Aditya6688/DSA-Ques/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Aditya6688/DSA-Ques/tree/master/0392-is-subsequence) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Aditya6688/DSA-Ques/tree/master/0954-maximum-sum-circular-subarray) |
@@ -512,6 +514,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/Aditya6688/DSA-Ques/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Aditya6688/DSA-Ques/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Aditya6688/DSA-Ques/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0322-coin-change](https://github.com/Aditya6688/DSA-Ques/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/Aditya6688/DSA-Ques/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/Aditya6688/DSA-Ques/tree/master/0433-minimum-genetic-mutation) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Aditya6688/DSA-Ques/tree/master/0530-minimum-absolute-difference-in-bst) |
