@@ -1,24 +1,31 @@
 class Solution {
 public:
     string convert(string s, int numRows) {
-        map<int,string> mp;
-        if (numRows == 1) return s;
-        int n = s.size();
-        int a = 0;
-        bool st = true;
+        // If there's only one row or not enough letters for zigzag, just return as is
+        if (numRows == 1 || numRows >= s.size()) return s;
 
-        for(int i=0;i<n;i++){
-            mp[a]+=s[i];
-            if(st == true) a++;
-            else a--;
+        // We'll use a vector to store each row
+        vector<string> rows(numRows, "");          // initialize numRows empty strings
 
-            if(a == 0 || a == numRows-1) st = !st;
+        int currRow = 0;                           // start at the first row
+        bool goingDown = false;                    // flag for the direction
+
+        // Loop through the entire string one char at a time
+        for (int i = 0; i < s.size(); i++) {
+            rows[currRow] += s[i];                 // put the current character in the current row
+
+            // If we are at first or last row, flip the direction
+            if (currRow == 0 || currRow == numRows - 1) goingDown = !goingDown;
+
+            // Move up or down depending on our direction
+            currRow += goingDown ? 1 : -1;
         }
 
-        string res = "";
-        for(auto &x:mp){
-            res+=x.second;
+        // Now, merge all the rows into one result string
+        string result = "";
+        for (int i = 0; i < rows.size(); i++) {
+            result += rows[i];                     // add all chars from this row
         }
-        return res;
+        return result; 
     }
 };
