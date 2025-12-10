@@ -151,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-max-consecutive-ones-iii](https://github.com/Aditya6688/DSA-Ques/tree/master/1046-max-consecutive-ones-iii) |
 | [1256-rank-transform-of-an-array](https://github.com/Aditya6688/DSA-Ques/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Aditya6688/DSA-Ques/tree/master/1319-unique-number-of-occurrences) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aditya6688/DSA-Ques/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Aditya6688/DSA-Ques/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1397-search-suggestions-system](https://github.com/Aditya6688/DSA-Ques/tree/master/1397-search-suggestions-system) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Aditya6688/DSA-Ques/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -468,6 +469,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1016-subarray-sums-divisible-by-k](https://github.com/Aditya6688/DSA-Ques/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1256-rank-transform-of-an-array](https://github.com/Aditya6688/DSA-Ques/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Aditya6688/DSA-Ques/tree/master/1319-unique-number-of-occurrences) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aditya6688/DSA-Ques/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Aditya6688/DSA-Ques/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Aditya6688/DSA-Ques/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Aditya6688/DSA-Ques/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -625,6 +627,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0974-reorder-data-in-log-files](https://github.com/Aditya6688/DSA-Ques/tree/master/0974-reorder-data-in-log-files) |
 | [1014-k-closest-points-to-origin](https://github.com/Aditya6688/DSA-Ques/tree/master/1014-k-closest-points-to-origin) |
 | [1256-rank-transform-of-an-array](https://github.com/Aditya6688/DSA-Ques/tree/master/1256-rank-transform-of-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aditya6688/DSA-Ques/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1397-search-suggestions-system](https://github.com/Aditya6688/DSA-Ques/tree/master/1397-search-suggestions-system) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Aditya6688/DSA-Ques/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Aditya6688/DSA-Ques/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -990,6 +993,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Aditya6688/DSA-Ques/tree/master/0274-h-index) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aditya6688/DSA-Ques/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Randomized
 |  |
 | ------- |
