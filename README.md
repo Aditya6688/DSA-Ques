@@ -136,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/Aditya6688/DSA-Ques/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Aditya6688/DSA-Ques/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Aditya6688/DSA-Ques/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/Aditya6688/DSA-Ques/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/Aditya6688/DSA-Ques/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Aditya6688/DSA-Ques/tree/master/0735-asteroid-collision) |
 | [0772-construct-quad-tree](https://github.com/Aditya6688/DSA-Ques/tree/master/0772-construct-quad-tree) |
@@ -459,6 +460,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0442-find-all-duplicates-in-an-array](https://github.com/Aditya6688/DSA-Ques/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Aditya6688/DSA-Ques/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Aditya6688/DSA-Ques/tree/master/0567-permutation-in-string) |
+| [0645-set-mismatch](https://github.com/Aditya6688/DSA-Ques/tree/master/0645-set-mismatch) |
 | [0778-reorganize-string](https://github.com/Aditya6688/DSA-Ques/tree/master/0778-reorganize-string) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Aditya6688/DSA-Ques/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Aditya6688/DSA-Ques/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -618,6 +620,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Aditya6688/DSA-Ques/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Aditya6688/DSA-Ques/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0502-ipo](https://github.com/Aditya6688/DSA-Ques/tree/master/0502-ipo) |
+| [0645-set-mismatch](https://github.com/Aditya6688/DSA-Ques/tree/master/0645-set-mismatch) |
 | [0778-reorganize-string](https://github.com/Aditya6688/DSA-Ques/tree/master/0778-reorganize-string) |
 | [0974-reorder-data-in-log-files](https://github.com/Aditya6688/DSA-Ques/tree/master/0974-reorder-data-in-log-files) |
 | [1014-k-closest-points-to-origin](https://github.com/Aditya6688/DSA-Ques/tree/master/1014-k-closest-points-to-origin) |
@@ -864,6 +867,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0222-count-complete-tree-nodes](https://github.com/Aditya6688/DSA-Ques/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/Aditya6688/DSA-Ques/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Aditya6688/DSA-Ques/tree/master/0338-counting-bits) |
+| [0645-set-mismatch](https://github.com/Aditya6688/DSA-Ques/tree/master/0645-set-mismatch) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Aditya6688/DSA-Ques/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 ## Linked List
 |  |
